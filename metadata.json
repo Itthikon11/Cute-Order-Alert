@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cute Order Alert",
+  "description": "สร้างและดาวน์โหลดเสียงแจ้งเตือนออเดอร์เข้าแย้ว เสียงผู้หญิงน่ารักๆ ปรับแต่งเสียงกริ่ง เอฟเฟกต์ และจำลองการแจ้งเตือนสำหรับร้านค้า",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
